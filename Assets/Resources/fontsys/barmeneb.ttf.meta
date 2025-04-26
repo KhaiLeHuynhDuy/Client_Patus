@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 5bd07574d6ae84b83a0eb5b6df2ade6c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 36
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Barmeno-ExtraBold
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 210b4ba4824334332819b604f84b68fe, type: 3}
+  - {fileID: 12800000, guid: ddb29674dd0464fc09ce43a3fc698b84, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
